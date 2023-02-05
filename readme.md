@@ -6,3 +6,4 @@ step 3 commit via feature2
 sixth step from feature1
 
 seventh commit
+seventh and half commit
