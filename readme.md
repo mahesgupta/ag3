@@ -7,3 +7,5 @@ sixth step from feature1
 
 seventh commit
 seventh and half commit
+
+7th step 8th commit
